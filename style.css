@@ -5,6 +5,9 @@
     margin: auto;
     margin-top: 30px;
     padding: 10px;
+    display: flex;
+    flex-direction: column;
+    min-width: 300px;
 }
 
 div h4{
